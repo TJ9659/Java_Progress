@@ -1,5 +1,5 @@
 # Java_Progress
-Self-Learning Path to learn Java. Want to solidfy my fundamentals before delving into Spring.
+Self-Learning Path to learn Java. Want to solidify my fundamentals before delving into Spring.
 
 # Content
 
